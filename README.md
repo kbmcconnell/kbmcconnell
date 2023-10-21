@@ -10,7 +10,7 @@ As you may have guessed by now, I am a massive nerd with a modest comic book col
 
 ### In Progress Projects
 
-I'm currently working on updating a school project called SpacePlace - it's a space-focused social place that allows users to find upcoming astronomical events in their area. I will update with a url once it's been deployed.
+I'm currently working on updating an old college project called SpacePlace - it's a space-focused social place that allows users to find upcoming astronomical events in their area. I will update with a url once it's been deployed.
 
 I will be re-writing and sharing various data structures I've worked on in C++. Like Linked Lists, Hash Tables, and so on.
 
