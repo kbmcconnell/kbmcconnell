@@ -28,7 +28,7 @@ Redux, GraphQL, NodeJS, Redis
 
 ### Contacting Me
 
-If you're interested in reaching out to me for work or a project or just to say hi, please feel free to reach out to me on [LinkedIn}(https://www.linkedin.com/in/kriston-mcconnell/) until I have my portfolio website up.
+If you're interested in reaching out to me for work or a project or just to say hi, please feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/kriston-mcconnell/) until I have my portfolio website up.
 
 
 <!--
