@@ -16,13 +16,13 @@ I will be re-writing and sharing various data structures I've worked on in C++. 
 
 ### Languages and Frameworks
 
-**Languages:**
+**Languages:** 
 Javascript, Typescript, C++, Python, SQL, NoSQL
 
-**Frameworks**
+**Frameworks:** 
 React, Angular, Bootstrap
 
-**Misc**
+**Misc:** 
 Redux, GraphQL, NodeJS, Redis
 
 
