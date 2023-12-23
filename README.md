@@ -1,6 +1,6 @@
 # Well, hello there!
 
-I'm a passionate software engineer based out of Seattle, WA. I have a Bachelor of Science degree from Seattle University and two years of frontend and full stack development experience. My first solo project was the implmentation of [neuross.org](https://www.neuross.org/), which is currently in its MVP state. I designed it using Figma, wrote it in React JS, and deployed it using Netlify. We are migrating NSS over to Squarespace where I will add further customization and improve its overall design.
+I'm a passionate software engineer based out of Seattle, WA. I have a Bachelor of Science degree from Seattle University and two years of frontend and full stack development experience.
 
 I have a wide range of interests and hobbies which I could definitely talk your ear off about. In typical PNW fashion, I'm fond of hiking, backpacking, kayaking, and just being outside in general. I even did a 6 day hiking trip when I traveled to Scotland in September 2022. I absolutely cried. 
 
