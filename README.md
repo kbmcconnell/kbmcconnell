@@ -1,34 +1,42 @@
-# Well, hello there!
+# Welcome
 
-I'm a passionate software engineer based out of Seattle, WA. I have a Bachelor of Science degree from Seattle University and two years of frontend and full stack development experience.
+I'm a dedicated cybersecurity professional based out of Seattle, WA. I have a B.S. in Computer Science, three years of experience in software development, and a year of experience in information security.
 
-I have a wide range of interests and hobbies which I could definitely talk your ear off about. In typical PNW fashion, I'm fond of hiking, backpacking, kayaking, and just being outside in general. I even did a 6 day hiking trip when I traveled to Scotland in September 2022. I absolutely cried. 
+In my free time I practice pentesting skills on Hack The Box and OverTheWire.
 
-I also enjoy reading and writing - I used to be a music writer where I reviewed albums, interviewed musicians, and did concert reviews. I'm cited in Wikipedia over 30 times. In my free time I write fiction and poetry. My favorite genres to read and write are sci-fi and fantasy. Ursula K Le Guin is my all-time favorite author and I highly recommend everyone check her out.
+# Education
 
-As you may have guessed by now, I am a massive nerd with a modest comic book collection and a weird amount of astronomy knowledge. Feel free to ask me about it!
+- Bachelor of Science in Computer Science
+- CompTIA Security+ SY0-601 certificate
+- (in progress) CompTIA CySA+ certificate
 
-# In Progress Projects
+# Information Security Experience
 
-I'm currently working on updating an old college project called SpacePlace - it's a space-focused social place that allows users to find upcoming astronomical events in their area. I will update with a url once it's been deployed.
+## Frameworks
 
-I will be re-writing and sharing various data structures I've worked on in C++. Like Linked Lists, Hash Tables, and so on.
+- NIST SP 800-171
+- CMMC 2.0
 
-# Languages and Frameworks
+## Tools
 
-**Languages:** 
-Javascript, Typescript, C++, Python, SQL, NoSQL
+- Kali Linux OS
+- bash commands
+- Nmap, netcat, Burp Suite, and more
 
-**Frameworks:** 
+# Programming Languages and Frameworks
+
+## Languages
+Javascript, Typescript, C++, Python, SQL
+
+## Frameworks
 React, Angular, Bootstrap
 
-**Misc:** 
+## Misc
 Redux, GraphQL, NodeJS, Redis
-
 
 # Contacting Me
 
-If you're interested in reaching out to me for work or a project or just to say hi, please feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/kriston-mcconnell/) until I have my portfolio website up.
+If you're interested in reaching out to me for work or a project or just to say hi, please feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/kriston-mcconnell/).
 
 
 <!--
