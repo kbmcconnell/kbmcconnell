@@ -12,10 +12,11 @@ In my free time I practice pentesting skills on Hack The Box and OverTheWire.
 
 # Information Security Experience
 
-## Frameworks
+## Top Frameworks
 
 - NIST SP 800-171
 - CMMC 2.0
+- ISO 27001 and 27002
 
 ## Tools
 
@@ -35,8 +36,7 @@ React, Angular, Bootstrap
 Redux, GraphQL, NodeJS, Redis
 
 # Contacting Me
-
-If you're interested in reaching out to me for work or a project or just to say hi, please feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/kriston-mcconnell/).
+I plan to accept IT and cybersecurity consulting work in the near future.
 
 
 <!--
