@@ -1,42 +1,6 @@
 # Welcome
 
-I'm a dedicated cybersecurity professional based out of Seattle, WA. I have a B.S. in Computer Science, three years of experience in software development, and a year of experience in information security.
-
-In my free time I practice pentesting skills on Hack The Box and OverTheWire.
-
-# Education
-
-- Bachelor of Science in Computer Science
-- CompTIA Security+ SY0-601 certificate
-- (in progress) CompTIA CySA+ certificate
-
-# Information Security Experience
-
-## Top Frameworks
-
-- NIST SP 800-171
-- CMMC 2.0
-- ISO 27001 and 27002
-
-## Tools
-
-- Kali Linux OS
-- bash commands
-- Nmap, netcat, Burp Suite, and more
-
-# Programming Languages and Frameworks
-
-## Languages
-Javascript, Typescript, C++, Python, SQL
-
-## Frameworks
-React, Angular, Bootstrap
-
-## Misc
-Redux, GraphQL, NodeJS, Redis
-
-# Contacting Me
-I plan to accept IT and cybersecurity consulting work in the near future.
+I'm a dedicated cybersecurity professional based out of Seattle, WA. I have a B.S. in Computer Science, three years of experience in software development, and currently work in information security.
 
 
 <!--
